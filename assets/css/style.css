@@ -31,7 +31,7 @@ header {
     /*padding-bottom: 10rem;*/
 }
 
-.acerca h1 {
+.acerca h2 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
     text-align: justify;
@@ -51,4 +51,30 @@ header {
 .experiencia h3 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
+}
+
+.experiencia p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+.trabajos h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+.trabajos h5 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+.trabajos p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    text-align: justify;
+}
+
+.btn-dark {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
 }
