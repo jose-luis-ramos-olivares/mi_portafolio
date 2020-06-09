@@ -1,6 +1,6 @@
 .navbar-brand {
-    font-family: 'Playfair Display', serif;
-    font-size: 30pt;
+    font-family: 'Francois One', sans-serif;
+    font-size: 20pt;
 }
 
 .nav-link {
@@ -9,19 +9,46 @@
 }
 
 .hero h1 {
-    font-family: 'Playfair Display', serif;
-    font-weight: 700;
+    font-family: 'Francois One', sans-serif;
     font-size: 50pt;
 }
 
+.hero p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 30pt;
+}
+
 .hero-section {
-    padding-bottom: 10rem;
+    margin-top: 15rem;
 }
 
 header {
-    background-image: url('../img/bg.jpg');
+    background-image: url('../img/bg22.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: left;
-    padding-bottom: 10rem;
+    background-position: center;
+    /*padding-bottom: 10rem;*/
+}
+
+.acerca h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    text-align: justify;
+}
+
+.acerca p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    text-align: justify;
+}
+
+.experiencia h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+.experiencia h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
 }
